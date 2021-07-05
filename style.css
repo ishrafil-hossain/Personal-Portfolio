@@ -356,31 +356,31 @@
     }
 
     .skills__js{
-        width: 50%;
+        width: 85%;
     }
 
     .skills__react{
-        width: 30%;
+        width: 90%;
     }
 
     .skills__bootstrap{
-        width: 40%;
+        width: 80%;
     }
 
     .skills__node{
-        width: 10%;
+        width: 70%;
     }
 
     .skills__express{
-        width: 50%;
+        width: 75%;
     }
 
     .skills__mongodb{
-        width: 30%;
+        width: 60%;
     }
 
     .skills__native{
-        width: 40%;
+        width: 80%;
     }
 
     /* Education */
